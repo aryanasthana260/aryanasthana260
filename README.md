@@ -1,7 +1,11 @@
 ## Hello there 👋
 
 # 💫 About Me:
-👋 Hi, I'm Aryan Asthana 💻 Web Developer | Java & DSA Enthusiast 🚀 Exploring the MERN Stack and building real-world projects 🧠 Constantly Learning :)
+👋 Hi, I'm Aryan Asthana 
+💻 Web Developer 
+Java & DSA Enthusiast
+🚀 Exploring the MERN Stack and building real-world projects
+🧠 Constantly Learning :)
 
 
 ## 🌐 Socials:
