@@ -1,10 +1,10 @@
-## Hello there 👋
-# 💫 About Me:
+# Hello there 👋
+## 💫 About Me:
 👋 Hi, I'm Aryan Asthana <br>💻 Web Developer <br>🍵Java & DSA Enthusiast <br>🚀 Exploring the MERN Stack and building real-world projects <br>🧠 Constantly Learning :)
 
 
-## 🌐 Socials:
-# You can Connect with me Below🐦‍🔥👌
+# 🌐 Socials:
+## You can Connect with me Below🐦‍🔥👌
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aryan_asthana_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aryan-a-33b90021b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanasthana260@gmail.com) 
 
 # 💻 Tech Stack:
